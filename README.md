@@ -1,1 +1,5 @@
-# Recognition-Coronary-Ischemia
+### RECOGNITION OF CORONARY ISCHEMIA THROUGH MULTIVARIABLE LOGISTIC REGRESSION
+
+Abstract—Heart disease in Peru and especially angina caused by ischemia has a mortality rate close to 29%, thisdisease is directly related to lifestyle, so early and correctdetection ***************************************************************************************************. To reduce mortality and morbidity, a system for detecting coronary ischemia using multivariate logistic regression was used with the tuning of parameters *************************************************************************************, 116 records of patients were extracted from the electrocardiograms of the Laboratory of Computational Physiology (LCP) of the Division of Health Sciences and Technology of Harvard-MIT (MIT-BHI) *******************************************************************************obtained, a K value of 0.647, Ts of 0.646, Hss of 0.647, **************. Future work may include regularization and boosting techniques.
+
+### El codigo y las conclusiones serán publicados al momento que el articulo cientifico sea indexado en alguna revista.
